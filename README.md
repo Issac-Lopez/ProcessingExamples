@@ -1,2 +1,2 @@
 # ProcessingExamples
-Examples of art made from the processing library in Java
+Examples of art made made in the processing library in Java
